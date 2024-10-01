@@ -4,8 +4,6 @@
 - 💞️ I'm looking to collaborate on the development of backend and frontend projects.
 - 📫 How to reach me:
 - https://www.linkedin.com/in/vitorhugoti/
-- WhatsApp
-- Github
 
 <!---
 vitorfrontend/vitorfrontend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
